@@ -11,7 +11,7 @@ project "Lua"
     files {
         "lapi.c",
         "lapi.h",
-        "luaxlib.c",
+        "lauxlib.c",
         "lauxlib.h",
         "lbaselib.c",
         "lcode.c",
